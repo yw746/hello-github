@@ -1,2 +1,3 @@
 # hello-github
-For the first try
+
+Hi humans!
